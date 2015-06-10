@@ -11,7 +11,7 @@
     "machines",
     "machinepack"
   ],
-  "author": "Mikle Carozzi <cadrogui>",
+  "author": "<cadrogui>",
   "repository": {
     "type": "git",
     "url": "https://github.com/cadrogui/machinepack-omdb.git"
