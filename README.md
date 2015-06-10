@@ -10,7 +10,7 @@ $ npm install machinepack-omdb
 
 ### Usage
 
-For the latest usage documentation and status of this module, see [http://node-machine.org/machinepack-slack](http://node-machine.org/machinepack-omdb).
+For the latest usage documentation and status of this module, see [http://node-machine.org/machinepack-omdb](http://node-machine.org/machinepack-omdb).
 
 ### About
 
