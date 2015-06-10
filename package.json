@@ -1,0 +1,31 @@
+{
+  "name": "machinepack-omdb",
+  "version": "2.0.0",
+  "description": "Use the Open Movie Database API via Node Machines",
+  "keywords": [
+    "movie",
+    "tv show",
+    "series",
+    "open",
+    "database",
+    "machines",
+    "machinepack"
+  ],
+  "author": "Mikle Carozzi <cadrogui>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cadrogui/machinepack-omdb.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "machine": "^1.1.0",
+    "superagent": "^1.2.0"
+  },
+  "machinepack": {
+    "friendlyName": "Open Movie Database Client",
+    "machineDir": "machines/",
+    "machines": [
+      "search-by-title"
+    ]
+  }
+}
