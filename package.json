@@ -19,7 +19,7 @@
   "license": "MIT",
   "dependencies": {
     "machine": "^1.1.0",
-    "superagent": "^1.2.0"
+    "superagent": "^2.0.0"
   },
   "machinepack": {
     "friendlyName": "Open Movie Database Client",
